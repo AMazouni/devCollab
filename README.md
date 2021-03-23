@@ -5,4 +5,7 @@ Le but est donc de permettre à chacun de travailler de façon individuelle avan
 
 >Parmis les outils du dev collaboratif: Les logiciels de gestion de versions (GIT est le plus connu) ou vcs
 # Logiciel de gestion de version
-Un vcs permet de sauvegarder une historique de tout les changements 
+Un vcs permet de sauvegarder une historique de tout les changements que le projet a subit et pouvoir ainsi revenir en arrière à chaque moment.
+Les vcs permettent aussi de synchroniser d'appliquer les nouveau changements directement au dossier du projet (appellé dépot) automatiquement , sans avoir à télécharger l'ensemble des fichiers du projet ou rajouter les changements effectués par ses collègues manuellement. Il permettent donc non seulement de gérer le travaille en équipe mais aussi de faire un log exhaustive des changements et des différentes versions .
+
+~~Cette phrase serai supprimé dans le commit suivant ~~
